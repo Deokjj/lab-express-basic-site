@@ -1,0 +1,12 @@
+body{
+  background-image: url("http://media.vanityfair.com/photos/585c05e16d7b256f605d19b0/master/h_590,c_limit/t-trump-mar-a-lago-02.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: repeat;
+  color: white;
+  font-size: 2.5em;
+}
+
+a{
+  color: white;
+}
